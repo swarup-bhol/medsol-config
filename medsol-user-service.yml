@@ -1,1 +1,3 @@
-swarup.bhol : swarup bhol
+swarup.bhol : swarup bhol 
+
+server.port: 8100
