@@ -19,3 +19,9 @@ spring:
 # Hibernate ddl auto (create, create-drop, validate, update)
     hibernate:
       ddl-auto: update
+
+#Configuring eureka
+eureka:
+   client:
+      service-url:
+         default-zone: http://localhost:8761
